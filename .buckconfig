@@ -3,6 +3,3 @@
 
 [project]
   ignore = .git
-
-[repositories]
-  buckaroo.github.buckaroo-pm.boost-config = ./buckaroo-packages/github/buckaroo-pm/boost-config
