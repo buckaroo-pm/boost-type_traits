@@ -1,9 +1,0 @@
-cxx_binary(
-  name = 'copy', 
-  srcs = [
-    'copy_example.cpp', 
-  ], 
-  deps = [
-    '//:type-traits', 
-  ], 
-)
