@@ -1,0 +1,9 @@
+manifest = "cf03e28865b3493bd446dc6a6c4a82374f5ca66f261505898e42b16024ecdfff"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-config"
+target = "//:config"
+
+[lock."github.com/buckaroo-pm/boost-config"]
+versions = [ "1.68.0" ]
+revision = "c7d32953c472ce021b1badc7bdbaa1aa3aa44099"
